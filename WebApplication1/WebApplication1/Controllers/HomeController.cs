@@ -23,6 +23,7 @@ namespace WebApplication1.Controllers
             var text = "Hello Bangladesh";
             var text2 = "Hello Bangladesh";
             var text3= "Hello Bangladesh";
+            var text4 = "Hello Bangladesh";
 
             return View();
         }
