@@ -21,6 +21,7 @@ namespace WebApplication1.Controllers
         public IActionResult Index()
         {
             var text = "Hello Bangladesh";
+            var text2 = "Hello Bangladesh";
             return View();
         }
 

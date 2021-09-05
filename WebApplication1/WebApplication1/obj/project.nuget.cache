@@ -1,8 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "z3COew1K14y6rnsEipTAnhqsbcGWD9h2Nsazt8eXtsJSNnEGFMtKf5lu7+LKXm5GvMRufJhC1/c7kdTBbz81bA==",
+  "dgSpecHash": "uvZ1rjo0G9sfQ7Xpa5CMg+aSKFe2wYyJG+/AjKMmxGaZR9YDRXNSt5roJPr10WJY17bPR6B5OhOVd+EsnwTmWQ==",
   "success": true,
   "projectFilePath": "E:\\ProjectHome\\New folder\\WebApplication1\\WebApplication1\\WebApplication1.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\Anwar\\.nuget\\packages\\microsoft.build.tasks.git\\1.0.0\\microsoft.build.tasks.git.1.0.0.nupkg.sha512",
+    "C:\\Users\\Anwar\\.nuget\\packages\\microsoft.sourcelink.common\\1.0.0\\microsoft.sourcelink.common.1.0.0.nupkg.sha512",
+    "C:\\Users\\Anwar\\.nuget\\packages\\microsoft.sourcelink.github\\1.0.0\\microsoft.sourcelink.github.1.0.0.nupkg.sha512"
+  ],
   "logs": []
 }
